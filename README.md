@@ -15,13 +15,13 @@ Version 2.0
 Install Warrick's dependencies on the command line by running:
 
 ```sh
-./INSTALL
+./INSTALL.sh
 ```
 
 Test the installation by running:
 
 ```sh
-./TEST
+./TEST.sh
 ```
 
 This will recover a web page and compare it to a master copy.
