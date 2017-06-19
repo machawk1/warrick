@@ -47,6 +47,10 @@ Lines pre-pended with "FAILED" indicate a failed recovery of ORIGINAL URI
 
 PID_SERVERNAME.save is the saved status file. This file is stored in the recovery directory and contains the information for resuming a suspended recovery job, as well as the stats for the recovery, such as the number of resources failed to be recovered, the number from different archives, etc. logfile.o is a temporary file that can be regarded as junk. It contains the headers for the last recovered resource.
 
+## Similar projects
+
+* [Wayback Machine Downloader](https://github.com/hartator/wayback-machine-downloader)
+
 ## History 
 
 * Modified by Justin F. Brunelle ([@jbrunelle](https://github.com/jfbrunelle)) at Old Dominion University - 2011
